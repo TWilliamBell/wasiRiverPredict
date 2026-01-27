@@ -1,2 +1,2 @@
 # wasiRiverPredict
-A model to predict the Wasi River 2 hours into the future
+A model to predict the Wasi River's flow 2 hours into the future, for use by whitewater kayakers
